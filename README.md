@@ -4,7 +4,7 @@ It is an Registration Form Using Html,Css,Node.js,express along with Mysql serve
 
 Created with Vs code & Mysql Workbench :
  <br><br>
-[![MasterHead](try.png)]()
+[![MasterHead](Form_img.png)]()
  <br><br>
 [![MasterHead](try10.png)]()
  <br><br> 
