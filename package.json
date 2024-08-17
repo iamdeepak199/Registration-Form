@@ -1,0 +1,21 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "Users Application Form ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "imdeepak199"
+  },
+  "author": "Deepak Bhardwaj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "chalk": "^4.1.2",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
